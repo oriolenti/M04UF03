@@ -1,0 +1,19 @@
+{
+  "name": "enti_survivors",
+  "version": "1.0.0",
+  "description": "Proyecto de juego tipo VS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oriolenti/M04UF03.git"
+  },
+  "author": "Oriol",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oriolenti/M04UF03/issues"
+  },
+  "homepage": "https://github.com/oriolenti/M04UF03#readme"
+}
