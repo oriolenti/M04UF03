@@ -1,19 +1,22 @@
 {
-  "name": "enti_survivors",
+  "name": "enti_urvivors",
   "version": "1.0.0",
-  "description": "Proyecto de juego tipo VS",
+  "description": "Repositorio de la UF3 del módulo M04 de Lenguaje de Marcas",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/oriolenti/M04UF03.git"
+    "url": "git+https://github.com/alejandroenti/2223_M04UF3.git"
   },
-  "author": "Oriol",
-  "license": "ISC",
+  "author": "Alejandro Lopez",
+  "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/oriolenti/M04UF03/issues"
+    "url": "https://github.com/alejandroenti/2223_M04UF3/issues"
   },
-  "homepage": "https://github.com/oriolenti/M04UF03#readme"
+  "homepage": "https://github.com/alejandroenti/2223_M04UF3#readme",
+  "dependencies": {
+    "node-static": "^0.7.11"
+  }
 }
