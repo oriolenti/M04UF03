@@ -51,6 +51,9 @@
 			let keyRight;
 			let keyUp;
 			let keyDown;
+			
+			let score;
+			let scoretext
 
 			function precarga () {
 
@@ -100,8 +103,9 @@
 					}, 400);
 
 				}, 2000);
-
 			}
+
+			score_text = this.add.text(16,16,'0',{font:'600 64px Arial'});
 
 			function actualiza () {
 
@@ -134,7 +138,7 @@
 					this.physics.collide(enemies[i], enemies);
 					
 					if (this.physics.collide(player_weapon, enemies[i])) {
-						console.log("Contact with enemie " + i);
+						console.log("Contact with enemy " + i);
 					}
 				}
 			}
