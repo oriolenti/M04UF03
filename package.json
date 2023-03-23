@@ -1,5 +1,5 @@
 {
-  "name": "enti_urvivors",
+  "name": "enti_survivors",
   "version": "1.0.0",
   "description": "Repositorio de la UF3 del módulo M04 de Lenguaje de Marcas",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alejandroenti/2223_M04UF3.git"
+    "url": "git+https://https://github.com/oriolenti/M04UF03.git"
   },
-  "author": "Alejandro Lopez",
+  "author": "oriolenti",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/alejandroenti/2223_M04UF3/issues"
+    "url": "https://https://github.com/oriolenti/M04UF03/issues"
   },
-  "homepage": "https://github.com/alejandroenti/2223_M04UF3#readme",
+  "homepage": "https://https://github.com/oriolenti/M04UF03#readme",
   "dependencies": {
     "node-static": "^0.7.11"
   }
